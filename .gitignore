@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Local data files
+*.xlsx
+!sample_accessions.xlsx
+~$*.xlsx
